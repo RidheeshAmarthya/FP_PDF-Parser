@@ -1,0 +1,670 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="no"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="no"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="no"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="no"> <!--<![endif]-->
+    <head>
+        
+	<!-- Start common head elements -->
+	<title>EPD Norge - Forsiden</title>
+
+	<meta charset="utf-8" />
+	<meta name="Generator" content="CorePublish 8.7.12 by CoreTrek, http://www.coretrek.no" />
+	<meta name="Keywords" content="" />
+	<meta name="Description" content="En EPD (Environmental Product Declaration) er et kortfattet tredjeparts verifisert og registrert dokument med transparent og sammenlignbar informasjon om produkters miljøprestasjon gjennom hele livssyklusen. Både den bakenforliggende LCA (Life-Cycle Assessment) og EPD er alltid basert på internasjonale standarder. Mer enn 350 EPDer fra over 100 bedrifter er nå publisert og fritt tilgjengelig hos EPD-Norge. " />
+	<meta property="og:title" content="EPD Norge - Forsiden" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.epd-norge.no/" />
+	<meta property="og:image" content />
+	<meta property="og:description" content="En EPD (Environmental Product Declaration) er et kortfattet tredjeparts verifisert og registrert dokument med transparent og sammenlignbar informasjon om produkters miljøprestasjon gjennom hele livssyklusen. Både den bakenforliggende LCA (Life-Cycle Assessment) og EPD er alltid basert på internasjonale standarder. Mer enn 350 EPDer fra over 100 bedrifter er nå publisert og fritt tilgjengelig hos EPD-Norge. " />
+	<meta property="og:site_name" content="EPD Norge" />
+	<meta property="og:locale" content="no_NO" />
+
+	<link rel="alternate" type="application/rss+xml" title="Bunntekst" href="https://www.epd-norge.no/bunntekst/category112.html" />
+	<link rel="alternate" type="application/rss+xml" title="404" href="https://www.epd-norge.no/404/category129.html" />
+	<link rel="alternate" type="application/rss+xml" title="Bannerartikler" href="https://www.epd-norge.no/bannerartikler/category141.html" />
+	<link rel="alternate" type="application/rss+xml" title="Logo" href="https://www.epd-norge.no/logo/category177.html" />
+	<link rel="alternate" type="application/rss+xml" title="Nyhetsbrev" href="https://www.epd-norge.no/nyhetsbrev/category377.html" />
+	<link rel="alternate" type="application/rss+xml" title="403 - Ingen adgang" href="https://www.epd-norge.no/403-ingen-adgang/category488.html" />
+	<link rel="alternate" type="application/rss+xml" title="Digi" href="https://digi.epd-norge.no" />
+	<link rel="Search" href="https://www.epd-norge.no/soekeresultat/" />
+	<link rel="canonical" href="https://www.epd-norge.no/?lang=no_NO" />
+	<link rel="alternate" type="text/html" lang="no-NO" title="Norwegian Bokmål" hreflang="no-NO" href="https://www.epd-norge.no/?lang=no_NO" />
+	<link rel="alternate" type="text/html" lang="en-GB" title="English (GB)" hreflang="en-GB" href="https://www.epd-norge.no/?lang=en_GB" />
+
+	<script src="https://www.epd-norge.no/corepublish/cplib-common/corepublish.js?appver=8.7.12"></script>
+	<script nonce="dee81c4304">
+	<!--
+	if (typeof window.corepublish === 'undefined') { window.corepublish = {}; } 
+  window.corepublish.mode = 'cplib'; 
+ var CPLIBHTMLROOT = 'https://www.epd-norge.no/corepublish/cplib-common'; var CPLIBSTARTTIME = new Date(); if (typeof cplibJsLoaded == 'undefined') { var cplibJsLoaded = false; } 
+	function ctAddEventListener(evt,fn) { if (window.addEventListener) { window.addEventListener(evt,fn); } else if (evt == 'corepublishInitLoaded') { if (window.corepublishInitDone && window.corepublishInitDone == true) {  fn.call(); } else {  setTimeout(function() {  ctRunWhenCplibLoaded(fn); }, 100) }}}
+	function ctRunWhenCplibLoaded(fn) { if (cplibJsLoaded == true) { fn.call() } else  {  setTimeout(function() { ctRunWhenCplibLoaded(fn); }, 100) }}
+	ctAddEventListener('corepublishInitLoaded',function() { ctShowRetinaImages(); }); 
+
+	ctAddEventListener('sessionrefresh.loaded',function() { ctRunWhenCplibLoaded(function() { window.corepublish.sessionrefreshdialog = new SessionRefreshDialog(1440, 'service.php', false );} ); }); 
+
+	-->
+	</script>
+	<!-- End common head elements -->
+
+<link rel="alternate" type="application/rss+xml" title="Bunntekst" href="https://www.epd-norge.no/bunntekst/category112.html" />
+<link rel="alternate" type="application/rss+xml" title="404" href="https://www.epd-norge.no/404/category129.html" />
+<link rel="alternate" type="application/rss+xml" title="Bannerartikler" href="https://www.epd-norge.no/bannerartikler/category141.html" />
+<link rel="alternate" type="application/rss+xml" title="Logo" href="https://www.epd-norge.no/logo/category177.html" />
+<link rel="alternate" type="application/rss+xml" title="Nyhetsbrev" href="https://www.epd-norge.no/nyhetsbrev/category377.html" />
+<link rel="alternate" type="application/rss+xml" title="403 - Ingen adgang" href="https://www.epd-norge.no/403-ingen-adgang/category488.html" />
+<link rel="alternate" type="application/rss+xml" title="Digi" href="https://digi.epd-norge.no" />
+
+            <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+            <link rel="manifest" href="/images/favicons/site.webmanifest">
+
+            <meta name="theme-color" content="#ffffff">
+
+            <!-- FONT
+            –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+            <link media="screen" rel="stylesheet" type="text/css" data-ctbrowsertype="" href="/webfont/stylesheet.css" />
+            <link media="screen" rel="stylesheet" type="text/css" data-ctbrowsertype="" href="/webfont/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+            <link media="screen" rel="stylesheet" type="text/css" data-ctbrowsertype="" href="/webfont/pe-icon-7-stroke/css/helper.css" />
+            <link rel="stylesheet" href="https://use.typekit.net/hdm1jpf.css">
+            <!-- CSS
+	        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+            <link rel="stylesheet" href="/themes/template/Skeleton-2.0.4/css/normalize.css">
+            <link rel="stylesheet" href="/themes/template/Skeleton-2.0.4/css/skeleton.css">
+            <script src="https://www.epd-norge.no/themes/template/js/libs/modernizr-2.0.6.min.js"></script>
+
+        	    <link media="screen" rel="stylesheet" type="text/css" data-ctbrowsertype="" href="https://www.epd-norge.no/themes/template/style.css?v=1.4" / >
+
+        <meta content="width=device-width, minimum-scale=1.0, initial-scale=1.0" name="viewport">
+        
+                <!--[if lte IE 9]>
+            <link media="screen" rel="stylesheet" type="text/css" data-ctbrowsertype="" href="https://www.epd-norge.no/themes/template/style-ie9.css" />        
+        <![endif]-->
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="/thirdparty/oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="/thirdparty/oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+	    <link rel="stylesheet" type="text/css" href="/thirdparty/cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    </head>
+        <!--[if lte IE 9]><body class="ie ie9 lte9 runtime-cid-215 menuroot-cid-215 frontpage"><![endif]-->
+    <!--[if !IE]><!--><body class="not-ie runtime-cid-215 menuroot-cid-215 frontpage"><!--<![endif]-->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MD5010ENW7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-MD5010ENW7');
+    </script>
+    <div id="container" class="clearfix">
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'no'}, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <div id="extra-1"><span></span></div>
+    <div id="extra-2"><span></span></div>
+    
+    <div id="placeholder-top" class="gradient" >
+        <div class="placeholder-start"></div>
+        <div class="content row">
+        
+<div class="erik tile-common horizontal-plain-menu right">
+    <div class="tile-top"></div>
+    <h3><span>Meny</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/kontakt/" >Kontakt</a></li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/nyhetsarkiv/" >Nyhetsarkiv</a></li>
+<li  class="gradient even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/webinar-presentasjoner/category502.html" >Webinar presentasjoner</a></li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/nyhetsbrev/category301.html" >Nyhetsbrev</a></li>
+<li  class="gradient even last tree-level-0"><a class='gradient' href="/admin" >Logg inn verifikatorer</a></li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+<div class="tile-common logo-tile align-left custom">
+    <div class="tile-content">
+                <a class="logo" href="https://www.epd-norge.no/"><span>LOGO</span></a>
+            </div>
+    <div class="tile-bottom"></div>
+</div>
+
+
+
+<div class="erik tile-common horizontal-menu mainmenu">
+    <div class="tile-top"></div>
+    <h3><span>Meny</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0 active collapsed"><a class='gradient' href="https://www.epd-norge.no/" >Forsiden</a><ul class="treelist">
+<li  class="gradient first even tree-level-1 expanded"><a class='gradient' href="https://www.epd-norge.no/om-oss/" >Om oss</a><ul class="treelist">
+<li  class="gradient first even tree-level-2 collapsed"><a class='gradient' href="https://www.epd-norge.no/organisering/category349.html" >Organisering</a><ul class="treelist">
+<li  class="gradient first even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/styret-i-epd-norge/" >Styret i EPD-Norge</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/teknisk-komite-tc/category346.html" >Teknisk Komité (TC)</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/epd-forum/category347.html" >EPD-Forum</a></li>
+<li  class="gradient odd last tree-level-3"><a class='gradient' href="https://www.epd-norge.no/sekretariat/category348.html" >Sekretariat</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/retningslinjer-for-programmet/category350.html" >Retningslinjer for programmet</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/epd-utvikling/category351.html" >EPD utvikling</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/arrangementer/category352.html" >Arrangementer</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/mutual-recognition/category533.html" >Mutual recognition</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/samarbeidspartnere/category375.html" >Samarbeidspartnere</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/publikasjoner/category380.html" >Publikasjoner</a></li>
+<li  class="gradient odd last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/personvern/" >Personvern</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-1 expanded"><a class='gradient' href="https://www.epd-norge.no/hva-er-en-epd/" >Hva er en EPD?</a><ul class="treelist">
+<li  class="gradient first even last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/bruksanvisninger-i-hvordan-tolke-epd-er/category379.html" >Bruksanvisninger i hvordan tolke EPD'er</a></li>
+</ul>
+</li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/bedrifter/" >EPD eiere</a></li>
+<li  class="gradient odd tree-level-1 expanded"><a class='gradient' href="https://www.epd-norge.no/lover-og-regler/category363.html" >Lover og regler</a><ul class="treelist">
+<li  class="gradient first even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/retningslinjer/category364.html" >Retningslinjer</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/tc-beslutninger/category365.html" >TC: Beslutninger</a></li>
+<li  class="gradient even last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/epd-merke-og-retningslinjer-for-bruk/category384.html" >EPD merke og retningslinjer for bruk</a></li>
+</ul>
+</li>
+<li  class="gradient even last tree-level-1 expanded"><a class='gradient' href="https://www.epd-norge.no/epder/" >EPDer</a><ul class="treelist">
+<li  class="gradient first even tree-level-2 collapsed"><a class='gradient' href="https://www.epd-norge.no/bygg/category315.html" >Bygg</a><ul class="treelist">
+<li  class="gradient first even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/asfalt-og-pukk/category326.html" >Asfalt og pukk</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/betongvarer/category316.html" >Betongvarer</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/bygningsplater-skillevegg/category318.html" >Bygningsplater / Skillevegg</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/dorer-og-vinduer/category319.html" >Dører og vinduer</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/eksplosiver/category486.html" >Eksplosiver</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/elektroniske-og-elektriske-komponenter-kabler-produkter/category554.html" >Elektroniske og elektriske komponenter / kabler / produkter</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/ferdig-betong/category317.html" >Ferdig betong</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/fiberarmering/category387.html" >Fiberarmering</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/gulvbelegg/category487.html" >Gulvbelegg</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/heltreprodukter/category320.html" >Heltreprodukter</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/isolasjon/category321.html" >Isolasjon</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/jernprodukter/category557.html" >Jernprodukter</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/maling/category386.html" >Maling</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/mortel/category327.html" >Mørtel</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' title="Natural stone products" href="https://www.epd-norge.no/natursteinprodukter-tilslag-og-fyllstoffer/category374.html" >Natursteinprodukter, tilslag og fyllstoffer</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/panelradiator/category568.html" >Panelradiator</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/rorsystemer/category478.html" >Rørsystemer</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/sement/category324.html" >Sement</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/solcellepaneler-og-komponenter/category552.html" >Solcellepaneler og komponenter</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/stal-armering-aluminiumskonstruksjoner/category323.html" >Stål  / armering / aluminiumskonstruksjoner</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/takbelegg-membraner/category325.html" >Takbelegg/membraner</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/taktil-merking/category565.html" >Taktil merking</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/teknisk-kjemiske-byggevareprodukter/category322.html" >Teknisk-kjemiske byggevareprodukter</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/ventiler/category534.html" >Ventiler</a></li>
+<li  class="gradient even last tree-level-3"><a class='gradient' href="https://www.epd-norge.no/ventilasjon-og-ventilasjonskomponenter/category560.html" >Ventilasjon og ventilasjonskomponenter</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-2 collapsed"><a class='gradient' href="https://www.epd-norge.no/mobel/category328.html" >Møbel</a><ul class="treelist">
+<li  class="gradient first even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/bord-benkebord/category331.html" >Bord / Benkebord</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/platemobler-romdeler/category330.html" >Platemøbler / Romdeler</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/sittemobler/category329.html" >Sittemøbler</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/lydpanel/category500.html" >Lydpanel</a></li>
+<li  class="gradient even tree-level-3"><a class='gradient' href="https://www.epd-norge.no/skap-reoler/category535.html" >Skap / Reoler</a></li>
+<li  class="gradient odd tree-level-3"><a class='gradient' href="https://www.epd-norge.no/avfallsbeholder-soppelkasse/category561.html" >Avfallsbeholder / Søppelkasse</a></li>
+<li  class="gradient even last tree-level-3"><a class='gradient' href="https://www.epd-norge.no/sykkelstolpe-stativ/category563.html" >Sykkelstolpe/stativ</a></li>
+</ul>
+</li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/emballasje/category385.html" >Emballasje</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/energi/category332.html" >Energi</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/kjemikalier/category333.html" >Kjemikalier</a></li>
+<li  class="gradient odd last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/mutual-recognition-epd-fra-andre-programoperatorer/category334.html" >Mutual Recognition EPD fra andre programoperatører </a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-0 collapsed"><a class='gradient' href="https://www.epd-norge.no/lage-epder/" >Lage EPDer</a><ul class="treelist">
+<li  class="gradient first even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/uavhengige-verifikatorer/category306.html" >Uavhengige verifikatorer</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/epd-tool-verification-team/category536.html" >EPD-tool verification team</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/kostnader/category307.html" >Kostnader</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/gyldighet/category308.html" >Gyldighet</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/retningslinjer-for-programmet/category350.html" >Retningslinjer</a></li>
+<li  class="gradient odd last tree-level-1 collapsed"><a class='gradient' href="https://www.epd-norge.no/nyttige-kontakter/category366.html" >Nyttige kontakter</a></li>
+</ul>
+</li>
+<li  class="gradient even tree-level-0 collapsed"><a class='gradient' href="https://www.epd-norge.no/pcr/" >Produktkategoriregler (PCR)</a><ul class="treelist">
+<li  class="gradient first even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/pcr-pa-horing/category312.html" >PCR på høring</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/pcr-register/category353.html" >PCR register</a></li>
+<li  class="gradient even last tree-level-1"><a class='gradient' href="https://www.epd-norge.no/overgang-til-en15804-a2/category567.html" >Overgang til EN15804+A2</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/faq/category344.html" >FAQ</a></li>
+<li  class="gradient even last tree-level-0"><a class='gradient' href="https://digi.epd-norge.no" >EPD-Norge Digi</a></li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+
+<div class="erik tile-common horizontal-menu sub">
+    <div class="tile-top"></div>
+    <h3><span>Meny</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/om-oss/" >Om oss</a><ul class="treelist">
+<li  class="gradient first even tree-level-1 collapsed"><a class='gradient' href="https://www.epd-norge.no/organisering/category349.html" >Organisering</a><ul class="treelist">
+<li  class="gradient first even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/styret-i-epd-norge/" >Styret i EPD-Norge</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/teknisk-komite-tc/category346.html" >Teknisk Komité (TC)</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/epd-forum/category347.html" >EPD-Forum</a></li>
+<li  class="gradient odd last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/sekretariat/category348.html" >Sekretariat</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/retningslinjer-for-programmet/category350.html" >Retningslinjer for programmet</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/epd-utvikling/category351.html" >EPD utvikling</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/arrangementer/category352.html" >Arrangementer</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/mutual-recognition/category533.html" >Mutual recognition</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/samarbeidspartnere/category375.html" >Samarbeidspartnere</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/publikasjoner/category380.html" >Publikasjoner</a></li>
+<li  class="gradient odd last tree-level-1"><a class='gradient' href="https://www.epd-norge.no/personvern/" >Personvern</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/hva-er-en-epd/" >Hva er en EPD?</a><ul class="treelist">
+<li  class="gradient first even last tree-level-1"><a class='gradient' href="https://www.epd-norge.no/bruksanvisninger-i-hvordan-tolke-epd-er/category379.html" >Bruksanvisninger i hvordan tolke EPD'er</a></li>
+</ul>
+</li>
+<li  class="gradient even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/bedrifter/" >EPD eiere</a></li>
+<li  class="gradient odd tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/lover-og-regler/category363.html" >Lover og regler</a><ul class="treelist">
+<li  class="gradient first even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/retningslinjer/category364.html" >Retningslinjer</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/tc-beslutninger/category365.html" >TC: Beslutninger</a></li>
+<li  class="gradient even last tree-level-1"><a class='gradient' href="https://www.epd-norge.no/epd-merke-og-retningslinjer-for-bruk/category384.html" >EPD merke og retningslinjer for bruk</a></li>
+</ul>
+</li>
+<li  class="gradient even last tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/epder/" >EPDer</a><ul class="treelist">
+<li  class="gradient first even tree-level-1 collapsed"><a class='gradient' href="https://www.epd-norge.no/bygg/category315.html" >Bygg</a><ul class="treelist">
+<li  class="gradient first even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/asfalt-og-pukk/category326.html" >Asfalt og pukk</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/betongvarer/category316.html" >Betongvarer</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/bygningsplater-skillevegg/category318.html" >Bygningsplater / Skillevegg</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/dorer-og-vinduer/category319.html" >Dører og vinduer</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/eksplosiver/category486.html" >Eksplosiver</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/elektroniske-og-elektriske-komponenter-kabler-produkter/category554.html" >Elektroniske og elektriske komponenter / kabler / produkter</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/ferdig-betong/category317.html" >Ferdig betong</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/fiberarmering/category387.html" >Fiberarmering</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/gulvbelegg/category487.html" >Gulvbelegg</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/heltreprodukter/category320.html" >Heltreprodukter</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/isolasjon/category321.html" >Isolasjon</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/jernprodukter/category557.html" >Jernprodukter</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/maling/category386.html" >Maling</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/mortel/category327.html" >Mørtel</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' title="Natural stone products" href="https://www.epd-norge.no/natursteinprodukter-tilslag-og-fyllstoffer/category374.html" >Natursteinprodukter, tilslag og fyllstoffer</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/panelradiator/category568.html" >Panelradiator</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/rorsystemer/category478.html" >Rørsystemer</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/sement/category324.html" >Sement</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/solcellepaneler-og-komponenter/category552.html" >Solcellepaneler og komponenter</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/stal-armering-aluminiumskonstruksjoner/category323.html" >Stål  / armering / aluminiumskonstruksjoner</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/takbelegg-membraner/category325.html" >Takbelegg/membraner</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/taktil-merking/category565.html" >Taktil merking</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/teknisk-kjemiske-byggevareprodukter/category322.html" >Teknisk-kjemiske byggevareprodukter</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/ventiler/category534.html" >Ventiler</a></li>
+<li  class="gradient even last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/ventilasjon-og-ventilasjonskomponenter/category560.html" >Ventilasjon og ventilasjonskomponenter</a></li>
+</ul>
+</li>
+<li  class="gradient odd tree-level-1 collapsed"><a class='gradient' href="https://www.epd-norge.no/mobel/category328.html" >Møbel</a><ul class="treelist">
+<li  class="gradient first even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/bord-benkebord/category331.html" >Bord / Benkebord</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/platemobler-romdeler/category330.html" >Platemøbler / Romdeler</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/sittemobler/category329.html" >Sittemøbler</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/lydpanel/category500.html" >Lydpanel</a></li>
+<li  class="gradient even tree-level-2"><a class='gradient' href="https://www.epd-norge.no/skap-reoler/category535.html" >Skap / Reoler</a></li>
+<li  class="gradient odd tree-level-2"><a class='gradient' href="https://www.epd-norge.no/avfallsbeholder-soppelkasse/category561.html" >Avfallsbeholder / Søppelkasse</a></li>
+<li  class="gradient even last tree-level-2"><a class='gradient' href="https://www.epd-norge.no/sykkelstolpe-stativ/category563.html" >Sykkelstolpe/stativ</a></li>
+</ul>
+</li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/emballasje/category385.html" >Emballasje</a></li>
+<li  class="gradient odd tree-level-1"><a class='gradient' href="https://www.epd-norge.no/energi/category332.html" >Energi</a></li>
+<li  class="gradient even tree-level-1"><a class='gradient' href="https://www.epd-norge.no/kjemikalier/category333.html" >Kjemikalier</a></li>
+<li  class="gradient odd last tree-level-1"><a class='gradient' href="https://www.epd-norge.no/mutual-recognition-epd-fra-andre-programoperatorer/category334.html" >Mutual Recognition EPD fra andre programoperatører </a></li>
+</ul>
+</li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+
+<div id="element_88601c0b_1" class="tile-common small-searchinput">
+    <div class="tile-top"></div>
+    <h3><span>Søk</span></h3>
+    <div class="tile-content">
+        <form action="https://www.epd-norge.no/soekeresultat/" method="get">
+            <div>
+                <input type="hidden" name="categoryID" value="236"/>
+                
+                <label for="element_2bc322e7_2">Søk i hele nettstedet</label>
+                <input id="element_2bc322e7_2" type="text" placeholder="Søk i hele nettstedet" class="textinput" name="q" value="" />
+                <span class="pe-7s-search"></span>
+                <input class="submit" type="submit" value="S&oslash;k" />
+            </div>
+        </form>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+            <a id="menutoggler" href="#element_1" data-toggle="collapse" class="toggler collapsed" aria-expanded="false"><span></span></a>
+        </div>
+        <div class="placeholder-end"></div>
+    </div>
+            <div id="placeholder-main-content" class="extra">
+    <div id="placeholder-content-fullwidth" class="clearfix">
+        <div class="placeholder-start"></div>
+        <div class="content row">
+        
+<div id="epd-search">
+    <div id="epdSearchContainer" class="tile-common EPD-searchinput">
+        <div class="icon-search-1 tile-top"></div>
+        <div class="tile-content">
+            <form class="search" action="/epd-soekeresultat/" method="get">
+                <div class="searchfield">
+                    <label class="hidden" for="epdSearch">Søk etter EPD</label>
+                    <input class="textinput" placeholder="Søk etter EPD" id="epdSearch" type="text" name="q" value="" />
+                    <input type="hidden" name="categoryID" value="376"/>
+                    <button class="gradient" type="submit"><span>S&oslash;k</span></button>
+                </div>
+            </form>
+        </div>
+        <div class="tile-bottom"></div>
+    </div>
+</div><div class="tile-common sitemap epd-categories">
+	<div class="tile-top"></div>
+			<h3><span class="pe-7s-server"></span><a href="#">Søk EPD via kategorier</a></h3>
+		
+	<div class="tile-content">
+		<ul class="treelist">
+<li  class="first even tree-level-0 collapsed"><a href="https://www.epd-norge.no/bygg/category315.html" >Bygg</a><ul class="treelist">
+<li  class="first even tree-level-1"><a href="https://www.epd-norge.no/asfalt-og-pukk/category326.html" >Asfalt og pukk</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/betongvarer/category316.html" >Betongvarer</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/bygningsplater-skillevegg/category318.html" >Bygningsplater / Skillevegg</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/dorer-og-vinduer/category319.html" >Dører og vinduer</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/eksplosiver/category486.html" >Eksplosiver</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/elektroniske-og-elektriske-komponenter-kabler-produkter/category554.html" >Elektroniske og elektriske komponenter / kabler / produkter</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/ferdig-betong/category317.html" >Ferdig betong</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/fiberarmering/category387.html" >Fiberarmering</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/gulvbelegg/category487.html" >Gulvbelegg</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/heltreprodukter/category320.html" >Heltreprodukter</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/isolasjon/category321.html" >Isolasjon</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/jernprodukter/category557.html" >Jernprodukter</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/maling/category386.html" >Maling</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/mortel/category327.html" >Mørtel</a></li>
+<li  class="even tree-level-1"><a title="Natural stone products" href="https://www.epd-norge.no/natursteinprodukter-tilslag-og-fyllstoffer/category374.html" >Natursteinprodukter, tilslag og fyllstoffer</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/panelradiator/category568.html" >Panelradiator</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/rorsystemer/category478.html" >Rørsystemer</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/sement/category324.html" >Sement</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/solcellepaneler-og-komponenter/category552.html" >Solcellepaneler og komponenter</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/stal-armering-aluminiumskonstruksjoner/category323.html" >Stål  / armering / aluminiumskonstruksjoner</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/takbelegg-membraner/category325.html" >Takbelegg/membraner</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/taktil-merking/category565.html" >Taktil merking</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/teknisk-kjemiske-byggevareprodukter/category322.html" >Teknisk-kjemiske byggevareprodukter</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/ventiler/category534.html" >Ventiler</a></li>
+<li  class="even last tree-level-1"><a href="https://www.epd-norge.no/ventilasjon-og-ventilasjonskomponenter/category560.html" >Ventilasjon og ventilasjonskomponenter</a></li>
+</ul>
+</li>
+<li  class="odd tree-level-0 collapsed"><a href="https://www.epd-norge.no/mobel/category328.html" >Møbel</a><ul class="treelist">
+<li  class="first even tree-level-1"><a href="https://www.epd-norge.no/bord-benkebord/category331.html" >Bord / Benkebord</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/platemobler-romdeler/category330.html" >Platemøbler / Romdeler</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/sittemobler/category329.html" >Sittemøbler</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/lydpanel/category500.html" >Lydpanel</a></li>
+<li  class="even tree-level-1"><a href="https://www.epd-norge.no/skap-reoler/category535.html" >Skap / Reoler</a></li>
+<li  class="odd tree-level-1"><a href="https://www.epd-norge.no/avfallsbeholder-soppelkasse/category561.html" >Avfallsbeholder / Søppelkasse</a></li>
+<li  class="even last tree-level-1"><a href="https://www.epd-norge.no/sykkelstolpe-stativ/category563.html" >Sykkelstolpe/stativ</a></li>
+</ul>
+</li>
+<li  class="even tree-level-0"><a href="https://www.epd-norge.no/emballasje/category385.html" >Emballasje</a></li>
+<li  class="odd tree-level-0"><a href="https://www.epd-norge.no/energi/category332.html" >Energi</a></li>
+<li  class="even tree-level-0"><a href="https://www.epd-norge.no/kjemikalier/category333.html" >Kjemikalier</a></li>
+<li  class="odd last tree-level-0"><a href="https://www.epd-norge.no/mutual-recognition-epd-fra-andre-programoperatorer/category334.html" >Mutual Recognition EPD fra andre programoperatører </a></li>
+</ul>
+	</div>
+	<div class="tile-bottom"></div>
+</div>
+<div class="full-articledisplay tile-common ">
+            <div class="header">
+                        <h1><span></span></h1>  
+            <div class="strek"></div>      
+        </div>
+                <div class="tile-content">
+                                <h2 class="digest">En EPD (Environmental Product Declaration) er et kortfattet tredjeparts verifisert og registrert dokument med transparent og sammenlignbar informasjon om produkters miljøprestasjon gjennom hele livssyklusen. Både den bakenforliggende LCA (Life-Cycle Assessment) og EPD er alltid basert på internasjonale standarder. Mer enn 1500 EPDer fra over 220 bedrifter er nå publisert og fritt tilgjengelig hos EPD-Norge. </h2>
+                                    <div class="article-content">
+                    <div class="main"><div class="body"><div class="articleelement newtext body" id="body-3136"><p><span style="font-size:22px"><a href="https://www.youtube.com/watch?v=g8egvshD_Sc" target="_blank">Se også EPD-Norge animasjonsvideo</a>, for kortversjon trykk</span><span style="font-size:22px">&nbsp;</span><a href="https://www.youtube.com/watch?v=AlXhD7hjX5g" style="font-size: 22px; line-height: 1.6em;" target="_blank">her</a></p>
+
+<p><span style="font-size:22px">For interaktiv brosjyre om EPD trykk <a href="http://www.visbrosjyre.no/EPDNorge/WebView/" target="_blank">her&nbsp;</a></span></p>
+
+<p>&nbsp;</p></div></div>
+</div>
+                    
+                </div>
+                  
+        </div>                   
+</div>
+<div id="slides">
+	    <div id="article1" class="slide article1">            <div class="list-thumbnail-default inline-block">
+                <a href="https://www.epd-norge.no/nyhetsarkiv/20-og-2000"><img src="https://www.epd-norge.no/getfile.php/1326543-1667300101/Bilder/Artikkelbilder/EPD%2020%20og%202000.pdf%20%28first%20page%29.jpg" alt="" /></a>
+            </div>
+        <div class="content inline-block">
+                <h3><a href="https://www.epd-norge.no/nyhetsarkiv/20-og-2000">20 og 2000</a></h3>
+                
+                <div class="digest">Velkommen til jubileum og feiring! EPD-Norge er 20 år og har over 2000 publiserte  EPDer.</div>
+            
+    </div>
+    </div><div id="article2" class="slide article2">            <div class="list-thumbnail-default inline-block">
+                <a href="https://www.epd-norge.no/nyhetsarkiv/norsus-og-ceris-at-instituto-superior-tecnico-of-lisbon-sammen-med-epd-norge"><img src="https://www.epd-norge.no/getfile.php/1326534-1666880984/Bilder/Artikkelbilder/EEA%20grant%20event%202022.jpg%20%28frontpage_rotor%29.jpg" alt="" /></a>
+            </div>
+        <div class="content inline-block">
+                <h3><a href="https://www.epd-norge.no/nyhetsarkiv/norsus-og-ceris-at-instituto-superior-tecnico-of-lisbon-sammen-med-epd-norge">NORSUS og CERIS at Instituto Superior Técnico of Lisbon, sammen med EPD-Norge</a></h3>
+                
+                <div class="digest">EPD-Norge har bidratt til et EEA grants (https://eeagrants.org/) seminar i forbindelse med at CERIS fra Portugal forvalter et EEA grant prosjekt sammen med blant annet NORSUS. Tema for prosjektet er &quot;C + D module, Close the loop by Disclosing the benefits of buildings” in short and its Platform for CDW&quot;.</div>
+            
+    </div>
+    </div><div id="article3" class="slide article3">            <div class="list-thumbnail-default inline-block">
+                <a href="https://www.epd-norge.no/nyhetsarkiv/tekna-fortsetter-suksessen-med-lca-kurs"><img src="https://www.epd-norge.no/getfile.php/1326129-1665492730/Bilder/Artikkelbilder/Lars.jpg%20%28frontpage_rotor%29.jpg" alt="" /></a>
+            </div>
+        <div class="content inline-block">
+                <h3><a href="https://www.epd-norge.no/nyhetsarkiv/tekna-fortsetter-suksessen-med-lca-kurs">TEKNA fortsetter suksessen med LCA kurs</a></h3>
+                
+                <div class="digest">TEKNA gjennomfører 3-4 LCA introduksjonskurs årlig. EPD-Norge er en viktig bidragsyter, sammen med NORSUS, her med Lars Tellnes. TEKNA har eget profesjonelt studio hvor alle sendinger gjennomføres.</div>
+            
+    </div>
+    </div><div id="article4" class="slide article4">            <div class="list-thumbnail-default inline-block">
+                <a href="https://www.epd-norge.no/nyhetsarkiv/epd-norge-er-medlem-av-bim-verdi"><img src="https://www.epd-norge.no/getfile.php/1325985-1665396172/Bilder/Artikkelbilder/bimverdiartikkel.png" alt="" /></a>
+            </div>
+        <div class="content inline-block">
+                <h3><a href="https://www.epd-norge.no/nyhetsarkiv/epd-norge-er-medlem-av-bim-verdi">EPD-Norge er medlem av BIM Verdi</a></h3>
+                
+                <div class="digest">BIM Verdi er et åpent nettverk for aktører i byggenæringen som vil digitalisere sammen med lønnsomhet som mål.</div>
+            
+    </div>
+    </div><div id="article5" class="slide article5">            <div class="list-thumbnail-default inline-block">
+                <a href="https://www.epd-norge.no/nyhetsarkiv/iese-og-epd-norge-samarbeider-og-organiserer-barekraft-seminar"><img src="https://www.epd-norge.no/getfile.php/1325795-1664358252/Bilder/Artikkelbilder/Iese%20event%20sept2022.png%20%28frontpage_rotor%29.png" alt="" /></a>
+            </div>
+        <div class="content inline-block">
+                <h3><a href="https://www.epd-norge.no/nyhetsarkiv/iese-og-epd-norge-samarbeider-og-organiserer-barekraft-seminar">IESE og EPD-Norge samarbeider og organiserer bærekraft seminar</a></h3>
+                
+                <div class="digest">Det var fullt hus hos EPD-Norge i NHO bygget da IESE sammen med EPD-Norge, FLOKK, Elektroskandia og LCA.no organiserte og gjennomførte seminar om bærekraft, hvordan og hvorfor miljødokumentasjon er et viktig verktøy for å sette mål og nå disse på en akademisk og troverdig måte.</div>
+            
+    </div>
+    </div></div>    <div class="tile-common full-articlelist nyeste">
+    <div class="tile-top">
+        </div>
+            <h2>
+        <span>Nyeste EPDer</span></h2>
+            <div class="tile-content">
+        <ul class="articles first">
+                        <li class="first odd article">
+                    <div class="content">
+                    <h4 class="notranslate">Prysmian Group Norge AS</h4>
+            		        <div class="thumbnail">
+			        <a href="https://www.epd-norge.no/elektroniske-og-elektriske-komponenter-kabler-produkter/bfou-e-c-250v-24p-2-5mm2-gy-article4472-554.html">
+				        <img src="https://www.epd-norge.no/getfile.php/1326616-1667392608/EPDer/Bilder%20EPD%20produkter/NEPD-3837-2790_BFOU-E-C--250V-24P-2.png%20%28thumbnail%29.png" alt="" />
+			        </a>
+		        </div>
+		                <h3 class="notranslate"><a href="https://www.epd-norge.no/elektroniske-og-elektriske-komponenter-kabler-produkter/bfou-e-c-250v-24p-2-5mm2-gy-article4472-554.html">BFOU-E(C) 250V 24P 2.5mm2 GY</a></h3>
+    </div>
+                </li>
+                        <li class="even article">
+                    <div class="content">
+                    <h4 class="notranslate">Flokk</h4>
+            		        <div class="thumbnail">
+			        <a href="https://www.epd-norge.no/sittemobler/hag-capisco-8106-article4470-329.html">
+				        <img src="https://www.epd-norge.no/getfile.php/1326589-1667312778/EPDer/Bilder%20EPD%20produkter/NEPD-3857-2811_HAG-Capisco-8106-1.png%20%28thumbnail%29.png" alt="" />
+			        </a>
+		        </div>
+		                <h3 class="notranslate"><a href="https://www.epd-norge.no/sittemobler/hag-capisco-8106-article4470-329.html">HÅG Capisco 8106</a></h3>
+    </div>
+                </li>
+                        <li class="odd article">
+                    <div class="content">
+                    <h4 class="notranslate">Jotun A/S</h4>
+            		        <div class="thumbnail">
+			        <a href="https://www.epd-norge.no/maling/majestic-sense-jotun-paints-vietnam-co-ltd-article4469-386.html">
+				        <img src="https://www.epd-norge.no/getfile.php/1326583-1667311987/EPDer/Bilder%20EPD%20produkter/NEPD-3855-2809_Majestic-Sense--Jotun-Paints--Vietnam--Co.-Ltd.png%20%28thumbnail%29.png" alt="" />
+			        </a>
+		        </div>
+		                <h3 class="notranslate"><a href="https://www.epd-norge.no/maling/majestic-sense-jotun-paints-vietnam-co-ltd-article4469-386.html">Majestic Sense, Jotun Paints (Vietnam) Co. Ltd.</a></h3>
+    </div>
+                </li>
+                        <li class="even article">
+                    <div class="content">
+                    <h4 class="notranslate">Scan Sørlie AS</h4>
+            		        <div class="thumbnail">
+			        <a href="https://www.epd-norge.no/skap-reoler/cabinet-mfc-w-sliding-doors-w160-2-levels-article4465-535.html">
+				        <img src="https://www.epd-norge.no/getfile.php/1326565-1667310890/EPDer/Bilder%20EPD%20produkter/NEPD-3852-2806_Cabinet--MFC--w-sliding-doors--W160--2-levels-1.png%20%28thumbnail%29.png" alt="" />
+			        </a>
+		        </div>
+		                <h3 class="notranslate"><a href="https://www.epd-norge.no/skap-reoler/cabinet-mfc-w-sliding-doors-w160-2-levels-article4465-535.html">Cabinet, MFC, w/sliding doors, W160, 2 levels</a></h3>
+    </div>
+                </li>
+                        <li class="odd article">
+                    <div class="content">
+                    <h4 class="notranslate">Scan Sørlie AS</h4>
+            		        <div class="thumbnail">
+			        <a href="https://www.epd-norge.no/skap-reoler/cabinet-mfc-w-sliding-doors-w120-1-level-article4464-535.html">
+				        <img src="https://www.epd-norge.no/getfile.php/1326559-1667308744/EPDer/Bilder%20EPD%20produkter/NEPD-3851-2807_Cabinet--MFC--w-sliding-doors--W120--1-level-1.png%20%28thumbnail%29.png" alt="" />
+			        </a>
+		        </div>
+		                <h3 class="notranslate"><a href="https://www.epd-norge.no/skap-reoler/cabinet-mfc-w-sliding-doors-w120-1-level-article4464-535.html">Cabinet, MFC, w/sliding doors, W120, 1 level</a></h3>
+    </div>
+                </li>
+                    </ul>
+
+            </div>
+    <div class="tile-bottom"></div>
+</div>
+        </div>
+        <div id="extra-3"><span></span></div>
+        <div id="extra-4"><span></span></div>
+
+        <div class="placeholder-end"></div>
+    </div>
+
+            </div></div>
+<!-- sticky footer: needs footer on same level as #container -->
+<div id="placeholder-bottom" class="">
+    <div class="placeholder-start"></div>
+    <div class="content row">
+        <div class="tile-common small-articledisplay small-articledisplay-no-header adresse">
+<div class="tile-top"></div>
+<div class="tile-content"><div class="articleelement newtext body" id="body-2562"><div>
+<h3>The Norwegian EPD Foundation</h3>
+P.O. Box 5250 Majorstuen<br />
+N-0303 Oslo Norway<br />
+Email: <a href="mailto:post@epd-norge.no">post@epd-norge.no</a><br />
+Invoice: Electronic invoice (EHF) to company number&nbsp;985223114
+<p><a href="https://www.epd-norge.no/personvern/">Personvern/GDPR</a></p>
+</div></div></div>
+<div class="tile-bottom"></div>
+</div>
+
+<div class="erik tile-common vertical-menu ">
+    <div class="tile-top"></div>
+    <h3><span>Forsiden</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/om-oss/" >Om oss</a></li>
+<li  class="gradient odd tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/hva-er-en-epd/" >Hva er en EPD?</a></li>
+<li  class="gradient even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/bedrifter/" >EPD eiere</a></li>
+<li  class="gradient odd tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/lover-og-regler/category363.html" >Lover og regler</a></li>
+<li  class="gradient even last tree-level-0 expanded"><a class='gradient' href="https://www.epd-norge.no/epder/" >EPDer</a></li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+
+<div class="erik tile-common vertical-menu ">
+    <div class="tile-top"></div>
+    <h3><span>Lage EPDer</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/uavhengige-verifikatorer/category306.html" >Uavhengige verifikatorer</a></li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/epd-tool-verification-team/category536.html" >EPD-tool verification team</a></li>
+<li  class="gradient even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/kostnader/category307.html" >Kostnader</a></li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/gyldighet/category308.html" >Gyldighet</a></li>
+<li  class="gradient even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/retningslinjer-for-programmet/category350.html" >Retningslinjer</a></li>
+<li  class="gradient odd last tree-level-0 collapsed"><a class='gradient' href="https://www.epd-norge.no/nyttige-kontakter/category366.html" >Nyttige kontakter</a></li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+
+<div class="erik tile-common vertical-menu ">
+    <div class="tile-top"></div>
+    <h3><span>Produktkategoriregler (PCR)</span></h3>
+    <div class="tile-content ">
+        <ul class="treelist">
+<li  class="gradient first even tree-level-0"><a class='gradient' href="https://www.epd-norge.no/pcr-pa-horing/category312.html" >PCR på høring</a></li>
+<li  class="gradient odd tree-level-0"><a class='gradient' href="https://www.epd-norge.no/pcr-register/category353.html" >PCR register</a></li>
+<li  class="gradient even last tree-level-0"><a class='gradient' href="https://www.epd-norge.no/overgang-til-en15804-a2/category567.html" >Overgang til EN15804+A2</a></li>
+</ul>
+    </div>
+    <div class="tile-bottom"></div>
+</div>
+
+    </div>
+</div>    
+
+<!-- JavaScript at the bottom for fast page loading -->
+
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="/thirdparty/ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="https://www.epd-norge.no/themes/template/js/libs/jquery-1.8.1.min.js"><\/script>')</script>
+  <!-- scripts concatenated and minified via ant build script-->
+  <script defer src="https://www.epd-norge.no/themes/template/js/plugins.js"></script>
+  <script defer src="https://www.epd-norge.no/themes/template/js/human-only.js"></script>
+  <!-- script defer src="https://www.epd-norge.no/themes/template/js/slides/source/slides.min.jquery.js"></script -->
+
+	<script type="text/javascript" src="/thirdparty/cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+  <script defer src="https://www.epd-norge.no/themes/template/js/script.js"></script>
+
+
+  <!-- end scripts-->
+<script>
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-18064427-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>
